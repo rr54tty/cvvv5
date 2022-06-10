@@ -1,6 +1,6 @@
-﻿{
-    "name": "仓库名",
-    "description": "仓库名",
+{
+    "name": "rr54tty",
+    "description": "rr54tty",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
